@@ -95,21 +95,22 @@ int main(){
         i++;                              H H H H H H H H
     }*/
 
-    while(i <= n)
+    /*while(i <= n)
     {
         int space = n - i;
         while(space)
-        {
-            cout<<" ";
-            space--;
-        }
-        int j = 1;
-        while(j <= i)
-        {
-            cout<<"*";
+        {                                           *
+            cout<<" ";                             ** 
+            space--;                              ***
+        }                                        ****
+        int j = 1;                              *****
+        while(j <= i)                          ******
+        {                                     *******
+            cout<<"*";                       ********
             j++;
         }
         cout<<endl;
         i++;
-    }
+    }*/
+    return 0;
 }
