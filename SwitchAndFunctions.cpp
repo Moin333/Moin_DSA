@@ -93,7 +93,7 @@ returntype Function_Name (Parameter 1, Parameter 2,..., Parameter n)
  
 Now let's Create a similar Simple Calculator with the help of Functions.
 */
-
+//Program of simple calculator using Functions.
 #include<iostream>
 using namespace std;
 int  add(int x, int y)
